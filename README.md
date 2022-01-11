@@ -2,7 +2,9 @@
 
 ## Overview 
 
-
+<p align="center">
+  <img src="fig/flowchart.png" />
+</p>
 ![flowchart](fig/flowchart.png)
 
 
