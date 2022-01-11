@@ -2,10 +2,9 @@
 
 ## Overview 
 
+<center>
 ![flowchart](fig/flowchart.png)
-<div style="text-align: center">
-<img src="fig/flowchart.png"/>
-</div>
+</center>
 
 This is the final project of digital image processing and computer vision course. In this report, we aim to enhance the traditional face swapping architecture and improve the quality of synthetic. We adopted the deep learning model, BlazeFace and SBR, to detect facial landmark more precisely, and also used the image processing techniques, including histogram matching, Poisson image editing, and 3D Gaussian blur, to improve the quality of forgery image and video. The pretrained model can be download [here](https://drive.google.com/drive/u/0/folders/1o8xrTEgG5XGeNVjFhG2vi3A0dc4yxP-S). (Note: The implementation of Poisson image editing here is wrong, need to be solved)
 
