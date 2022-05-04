@@ -3,7 +3,7 @@
 ## Overview 
 
 <p align="center">
-  <img src="fig/flowchart.png" />
+  <img src="fig/flowchart.png" width=80%/>
 </p>
 
 
@@ -11,7 +11,9 @@ This is the final project of digital image processing and computer vision course
 
 Result:
 
-![teaser](fig/result.gif)
+<p align="center">
+  <img src="fig/result.gif" width=80% />
+</p>
 
 ### Contents:
 
