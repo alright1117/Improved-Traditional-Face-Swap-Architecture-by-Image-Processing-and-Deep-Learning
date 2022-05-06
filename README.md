@@ -1,4 +1,4 @@
-# Implementation Image Histogram Equalization and Filtering
+# Improved Traditional FaceSwap Architecture
 
 ## Overview 
 
